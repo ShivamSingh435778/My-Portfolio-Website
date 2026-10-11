@@ -1,0 +1,1 @@
+The resume PDF is embedded in index.html so the View/Download buttons also work when opening the portfolio locally. Keep Resume_O.pdf in this folder as a backup. Open index.html in Chrome after extracting the ZIP.
