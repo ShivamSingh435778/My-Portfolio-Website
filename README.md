@@ -3,7 +3,7 @@
 My personal portfolio website to showcase my projects, skills and resume.
 
 ### 🔗 Live Link
-**https://shivamsingh435778.github.io/shivam--portfolio-/**
+**https://shivamsingh435778.github.io/My-Portfolio-Website/**
 
 ### 🛠️ Tech Stack
 - HTML5
